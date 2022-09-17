@@ -1,0 +1,40 @@
+-------------------------------------------------------
+-------------------------------------------------------
+
+How to play?
+
+Welcome new player!
+
+The rules are simple.
+
+1. There is a word that you are going to try to guess.
+
+2. There is a clue of how many letters the word has. 
+
+_ _ _ _ _ 
+
+Each underscore represents one letter.
+
+3. You are going to type a single letter;
+
+For example: 
+
+If you type the letter "a"
+
+The game is going to show you if the letter is in the word.
+
+_ _ A _ _ 
+
+But, if you type a letter wrong
+
+The game is going to take away one opportunity.
+
+4. You have a total of 8 opportunities.
+
+Good luck!
+
+-------------------------------------------------------
+-------------------------------------------------------
+
+
+
